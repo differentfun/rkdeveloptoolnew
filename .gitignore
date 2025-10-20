@@ -1,0 +1,16 @@
+# Generated/temporary files
+*.img
+*.img.xz
+*.xz
+*.log
+
+# Build directories
+rkbin/
+rkdeveloptool-src/
+__pycache__/
+
+# Editor artifacts
+*~
+.DS_Store
+.idea/
+.vscode/
